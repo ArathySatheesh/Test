@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 only for master,exploring git
+=======
+for newbranchexploring git
+>>>>>>> newbranch
